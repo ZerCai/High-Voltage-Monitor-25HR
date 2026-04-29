@@ -1,5 +1,5 @@
 # Schematics
-<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/74bcd682-d4a8-4184-8d5a-6e63c0a5edd8" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/74bcd682-d4a8-4184-8d5a-6e63c0a5edd8" />&nbsp;
 
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/4148e0d7-6776-4bdb-be1d-c5c5f3c2b746" />
 
